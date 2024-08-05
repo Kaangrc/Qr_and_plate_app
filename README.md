@@ -1,17 +1,10 @@
-# ar_app
+# QR APP
 
 A new Flutter project.
 
-## Getting Started
+## CONTENTS
+Flutter ile tasarlanmış bu app uygulamada hem qr kod oluşturma hemde qr kod okuma gibi işlevleri yerine getirmenin yanı sıra Flutter uygulamaları için tasarlanmış olan Google ml_kit paketlerinden yararlanarak bir görselden plaka ve adres bilgisi almayı kolaylaştıran bir app uygulaması işte karşınızda
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Qr_and_plate_app
+![ Screenshot_1722839793](https://github.com/user-attachments/assets/dd33cd0f-f7e9-4fc3-9504-03869144ebe5)
